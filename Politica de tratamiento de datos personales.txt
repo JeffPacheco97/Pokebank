@@ -1,0 +1,42 @@
+POLÍTICA GENERAL DE SEGURIDAD Y PRIVACIDAD DE LA INFORMACIÓN POKEBANK
+
+La dirección de Pokebank, entendiendo la importancia de una adecuada gestión de la información, se ha comprometido con la implementación de un sistema de gestión de seguridad de la información buscando establecer un marco de confianza en el ejercicio de sus deberes con el Estado y los ciudadanos, todo enmarcado en el estricto cumplimiento de las leyes y en concordancia con la misión y visión de la entidad.
+Para Pokebank, la protección de la información busca la disminución del impacto generado sobre sus activos, por los riesgos identificados de manera sistemática con objeto de mantener un nivel de exposición que permita responder por la integridad, confidencialidad y la disponibilidad de la misma, acorde con las necesidades de los diferentes grupos de interés identificados.
+De acuerdo con lo anterior, esta política aplica a la Entidad según como se defina en el alcance, sus funcionarios, terceros, aprendices, practicantes, proveedores y la ciudadanía en general, teniendo en cuenta que los principios sobre los que se basa el desarrollo de las acciones o toma de decisiones alrededor del SGSI estarán determinadas por las siguientes premisas:
+* Minimizar el riesgo en las funciones más importantes de la entidad. 
+* Cumplir con los principios de seguridad de la información. 
+* Cumplir con los principios de la función administrativa. 
+* Mantener la confianza de sus clientes, socios y empleados. 
+* Apoyar la innovación tecnológica. 
+* Proteger los activos tecnológicos. 
+* Establecer las políticas, procedimientos e instructivos en materia de seguridad de la información.
+* Fortalecer la cultura de seguridad de la información en los funcionarios, terceros, aprendices, practicantes y clientes de Pokebank.
+* Garantizar la continuidad del negocio frente a incidentes.
+* Pokebank ha decidido definir, implementar, operar y mejorar de forma continua un Sistema de Gestión de Seguridad de la Información, soportado en lineamientos claros alineados a las necesidades del negocio, y a los requerimientos regulatorios.
+Alcance/Aplicabilidad 
+Esta política aplica a toda la entidad, sus funcionarios, contratistas y terceros del Pokebank y la ciudadanía en general. 
+Nivel de cumplimiento
+Todas las personas cubiertas por el alcance y aplicabilidad deberán dar cumplimiento un 100% de la política.
+A continuación, se establecen 4 dimensiones de control de seguridad que soportan el SGSI de Pokebank:
+Política de control de la Documentación
+* Las responsabilidades frente a la seguridad de la información serán definidas, compartidas, publicadas y aceptadas por cada uno de los empleados, proveedores, socios de negocio o terceros.
+*  Pokebank protegerá la información generada, procesada o resguardada por los procesos de negocio, su infraestructura tecnológica y activos del riesgo que se genera de los accesos otorgados a terceros (ej.: proveedores o clientes), o como resultado de un servicio interno en outsourcing. 
+* Pokebank protegerá las instalaciones de procesamiento y la infraestructura tecnológica que soporta sus procesos críticos.
+* Pokebank garantizará que la seguridad sea parte integral del ciclo de vida de los sistemas de información. 
+* Pokebank garantizará la disponibilidad de sus procesos de negocio y la continuidad de su operación basada en el impacto que pueden generar los eventos. 
+* Pokebank garantizará el cumplimiento de las obligaciones legales, regulatorias y contractuales establecidas.
+Política de control de accesos
+* Pokebank implementará control de acceso a la información, sistemas y recursos de red.
+* Pokebank protegerá la información creada, procesada, transmitida o resguardada por sus procesos de negocio, con el fin de minimizar impactos financieros, operativos o legales debido a un uso incorrecto de esta. Para ello es fundamental la aplicación de controles de acuerdo con la clasificación de la información de su propiedad o en custodia.
+* Pokebank controlará la operación de sus procesos de negocio garantizando la seguridad de los recursos tecnológicos y las redes de datos. 
+Política del Uso aceptable de los activos
+* Pokebank realizará periódica de capacitaciones en seguridad informática para mejoramiento de los procesos.
+* Pokebank protegerá su información de las amenazas originadas por parte del personal.
+* Pokebank, así como todos los que en su nombre actúen, respetarán la normativa vigente y darán uso de los activos de información así como a los datos contenidos en ellos para efectos exclusivamente relativos a la necesidad del negocio.
+
+Política de revisión y actualización de la documentación
+* Pokebank garantizará a través de una adecuada gestión de los eventos de seguridad y las debilidades asociadas con los sistemas de información una mejora efectiva de su modelo de seguridad. 
+* Pokebank garantizará una continua y periódica auditoría a sus sistemas informáticos, procesos y bases de datos.
+
+Jefferson Pacheco Suárez
+Chief Information Security Officer
